@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413994704585176880/c939f8267f75428da0f4982e04b04c4b/artifacts
+deleted_time: 1714194100980
+end_time: 1714129794097
+entry_point_name: ''
+experiment_id: '413994704585176880'
+lifecycle_stage: deleted
+run_id: c939f8267f75428da0f4982e04b04c4b
+run_name: fun-midge-206
+run_uuid: c939f8267f75428da0f4982e04b04c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714129785470
+status: 3
+tags: []
+user_id: bayuk

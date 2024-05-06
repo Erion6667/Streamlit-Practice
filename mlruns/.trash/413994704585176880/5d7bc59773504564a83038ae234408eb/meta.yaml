@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413994704585176880/5d7bc59773504564a83038ae234408eb/artifacts
+deleted_time: 1714194100980
+end_time: 1714130575539
+entry_point_name: ''
+experiment_id: '413994704585176880'
+lifecycle_stage: deleted
+run_id: 5d7bc59773504564a83038ae234408eb
+run_name: suave-bird-700
+run_uuid: 5d7bc59773504564a83038ae234408eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714130565647
+status: 3
+tags: []
+user_id: bayuk

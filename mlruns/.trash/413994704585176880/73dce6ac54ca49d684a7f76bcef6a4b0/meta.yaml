@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413994704585176880/73dce6ac54ca49d684a7f76bcef6a4b0/artifacts
+deleted_time: 1714194100980
+end_time: 1714130104370
+entry_point_name: ''
+experiment_id: '413994704585176880'
+lifecycle_stage: deleted
+run_id: 73dce6ac54ca49d684a7f76bcef6a4b0
+run_name: auspicious-stoat-864
+run_uuid: 73dce6ac54ca49d684a7f76bcef6a4b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714130095696
+status: 3
+tags: []
+user_id: bayuk

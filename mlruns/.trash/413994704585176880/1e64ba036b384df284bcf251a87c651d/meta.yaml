@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413994704585176880/1e64ba036b384df284bcf251a87c651d/artifacts
+deleted_time: 1714194100980
+end_time: 1714129460276
+entry_point_name: ''
+experiment_id: '413994704585176880'
+lifecycle_stage: deleted
+run_id: 1e64ba036b384df284bcf251a87c651d
+run_name: gregarious-toad-508
+run_uuid: 1e64ba036b384df284bcf251a87c651d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714129450873
+status: 3
+tags: []
+user_id: bayuk

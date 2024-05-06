@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413994704585176880/11b786cea414492a976a6cfcc00b2481/artifacts
+deleted_time: 1714194100980
+end_time: 1714129932069
+entry_point_name: ''
+experiment_id: '413994704585176880'
+lifecycle_stage: deleted
+run_id: 11b786cea414492a976a6cfcc00b2481
+run_name: youthful-moth-840
+run_uuid: 11b786cea414492a976a6cfcc00b2481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714129926570
+status: 3
+tags: []
+user_id: bayuk

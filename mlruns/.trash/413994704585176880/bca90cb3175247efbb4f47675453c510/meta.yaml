@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413994704585176880/bca90cb3175247efbb4f47675453c510/artifacts
+deleted_time: 1714194100980
+end_time: 1714129641868
+entry_point_name: ''
+experiment_id: '413994704585176880'
+lifecycle_stage: deleted
+run_id: bca90cb3175247efbb4f47675453c510
+run_name: nimble-skunk-13
+run_uuid: bca90cb3175247efbb4f47675453c510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714129634721
+status: 3
+tags: []
+user_id: bayuk
